@@ -1,1 +1,1 @@
-# git check
+# project repository for HackNJIT 2021
